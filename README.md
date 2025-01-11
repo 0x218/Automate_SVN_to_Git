@@ -1,4 +1,3 @@
-# 
 <h1> <p align="center"> <span style='font-weight:bold;align=center'>Migrating your SVN project into Git</span></p></h1>
 
 There are three scripts you need to use to migrate any number of projects from your SVN repository into git.
