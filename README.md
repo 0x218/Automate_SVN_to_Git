@@ -12,7 +12,7 @@ You must have git command line tool installed.
  ---
 # Execution order
  ---
- 1. 1_enerate_committer_file.sh.  It generates a file that consist of list of svn committer names.  Input: SVN url, output file.
+ 1. 1_generate_committer_file.sh.  It generates a file that consist of list of svn committer names.  Input: SVN url, output file.
    Example: 1_generate_committer_file.sh https://mysvnserver.com/core_section/projectname svnCommitter.txt
 
 2. 2_git_svn_fetch.sh.  Reads the svn_project_folder_List.txt and converts corresponding svn repositories into git repositories.
