@@ -3,13 +3,12 @@
 
 There are three scripts you need to use to migrate any number of projects from your SVN repository into git.
 
- ---
 # Pre-requisites
  ---
 You must be able to execute svn commands.
 You must have git command line tool installed.
 
- ---
+
 # Execution order
  ---
  1. 1_generate_committer_file.sh.  It generates a file that consist of list of svn committer names.  Input: SVN url, output file.
